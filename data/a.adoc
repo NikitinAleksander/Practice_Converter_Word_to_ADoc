@@ -1,0 +1,56 @@
+== Заголовок 1
+Текст под заголовком первого уровня
+
+=== Заголовок 2
+Текст под заголовком второго уровня
+
+==== Заголовок 3
+Текст под заголовком третьего уровня 
+
+===== Заголовок 4
+Текст под заголовком четвертого уровня
+
+- Drawing1
+
+====== List1:
+
+* Элемент списка 1
+* Элемент списка 2
+* Элемент списка 3
+
+====== Другой список:
+
+. Элемент списка 1
+. Элемент списка 2
+. Элемент списка 3
+. Элемент списка 4
+
+====== Третий список
+
+* List1
+** List1.2
+** List1.3
+*** List1.3.2
+* List2
+* List3
+** List3.2
+
+**Жирный текст,** __текст курсивом,__ **__текст жирным курсивом**__
+
+|===
+1.2+|a 2.1+|A 2.1+|A 
+|A |A |A |A 
+|A |A |A |A |A 
+|A |Aa |A |A |A 
+|A |A |A |A |a 
+|===
+
+Dear Editor,
+
+I am writing to protest about the proposal for a new airport. : people have been against the idea from the start. Nevertheless, the government is planning to go ahead with the building next year.
+
+First, the government says that the airport will bring us industw jobs. However, in my opinion, it will ruin the character of Tamforl historic, country town. Although the airport would bring tourists I am not sure they would want to stay in a dirty, industrial town. Despite what the government says, it is clear that the airport will  also affect our health. Problems will increase in spite of the new hospital the government has promised us. Air pollution will get and this will affect people, for example, asthma sufferers. Noise pollution will also have an effect on the houses and schools near airport. I think other residents should write to the government about this issue. This Saturday I will be outside the Town Hall to collect signatures for a petition. I think we should do everything we can stop this airport.
+
+- Drawing2
+
+I look forward to reading more letters about this issue in your newspaper.
